@@ -1,7 +1,8 @@
 ### IWIS - Credit scoring
 
 Description:
-Given a train and test datastes - build a binary classififer which will predict whether or not a client's loan will be aproved or declined
+
+Given a train and test datasets - build a binary classififer which will predict whether or not a client's loan will be aproved or declined
 
 Data:
 
