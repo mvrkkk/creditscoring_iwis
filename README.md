@@ -7,6 +7,7 @@ Data:
 
  - 9 anonimized features
  - Binary target - {1:loan declined, 0: loan aproved}
+
 Metrics:
 
  - ROC_AUC
